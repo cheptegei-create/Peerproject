@@ -1,14 +1,17 @@
 .card   {
-    background-color: lightslategrey;
-    color: whitesmoke;
+    background-color: rgb(216, 93, 120);
+    color: rgb(255, 255, 255);
     padding: 8px;
 }
 body    {
-    background-color: rgb(90, 133, 175);
+    background-color: rgb(134, 176, 230);
 }
 .jumbotron  {
-    background-color: steelblue;
+    background-color: rgb(249, 252, 93);
     text-align: center;
-    text-emphasis: bold;
+}
+h1  {
+    color: steelblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
