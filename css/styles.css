@@ -1,6 +1,14 @@
 .card   {
     background-color: lightslategrey;
+    color: whitesmoke;
+    padding: 8px;
 }
 body    {
     background-color: rgb(90, 133, 175);
+}
+.jumbotron  {
+    background-color: steelblue;
+    text-align: center;
+    text-emphasis: bold;
+    
 }
